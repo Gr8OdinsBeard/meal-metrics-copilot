@@ -11,3 +11,6 @@ To run this application:
 ```
 npm run dev
 ```
+
+
+Tutorial to learn how to use GitHub Copilot to build an application with OpenAI’s gpt-3.5-turbo model.
